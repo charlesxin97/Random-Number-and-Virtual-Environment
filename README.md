@@ -12,4 +12,3 @@ Script 3 visualizes the result using result from 1 as x-axis and result from 2 a
 
 The .ipynb file contains visualizations, can be run by Jupyter notebook and Binder.
 
-Fill in the fields to see the markdown badge snippet.
