@@ -18,7 +18,7 @@ A random number generate and visualize project.
 1. create a virtual environment using virtualenv, name it as "dsci560H4"
 2. move into the virtual environment folder and go to /scripts folder, run activate.bat to start the environment
 3. install need package with: pip install jupyter, pip install json, pip install random
-4. excute python scripts, should see the following screen for running script1.
+4. excute python scripts, should see the following screen for running script1. 
 ![image](/image/1.png)
 
 # Binder badge to show the notebook
