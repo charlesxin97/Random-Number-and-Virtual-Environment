@@ -7,7 +7,7 @@ for i in range(1000):
     sample_a.append(random.randint(0,100))
 json_a = json.dumps(sample_a)
 
-w = open('random_set_1.json', 'w')
+w = open('output/random_set_1.json', 'w')
 w.write(json_a)
 w.close()
 print(sample_a)
