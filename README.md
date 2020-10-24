@@ -11,3 +11,9 @@ Script 3 visualizes the result using result from 1 as x-axis and result from 2 a
 /Output folder contains output result as Json files and one visualized image for script 3 as well.
 
 The .ipynb file contains visualizations, can be run by Jupyter notebook and Binder.
+
+# Environment requirement
+"Environment Dependencies" lists all packages needed to run those scripts, the following steps lists all job to be done to create the environment.
+
+# Binder badge to show the notebook
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/alvinzhou66/Random-Number-and-Virtual-Environment/main?filepath=%2Fscript.ipynb)
