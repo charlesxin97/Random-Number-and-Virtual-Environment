@@ -1,6 +1,6 @@
 # Random number generator
 # Brief Intro
-A random number generate and visualize project.
+A random number generation and visualization project.
 
 'Script 1' generate 1000 random number valued between 1-100.
 
