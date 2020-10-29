@@ -13,7 +13,7 @@ A random number generation and visualization project.
 'script.ipynb' contains visualizations, can be run by Jupyter notebook and Binder.
 
 # Environment requirement
-The file "requirements.txt" lists all packages needed to run those scripts. Compare to that list, we only need to do a "pip install Jupyter" by hand, others will be created when you build the enviroment.
+The file "requirements.txt" lists all packages needed to run those scripts. Compare to that list, we only need to do a "pip install Jupyter" and a "pip install matplotlib" by hand, others will be created when you build the enviroment.
 
 The following steps lists all job to be done to create the environment.
 
@@ -22,6 +22,7 @@ The following steps lists all job to be done to create the environment.
 ![image](/image/4.png)
 3. install needed package by hand using following commend while the virtual environment is running: 
 ![image](/image/9.png)
+![image](/image/0.png)
 4. excute python scripts, should see the following screen for successfully run script1. 
 ![image](/image/1.png)
 5. before update the repo, add the environment folder to the .gitignore file to avoid uploading it.
